@@ -10,7 +10,7 @@
 - Integrates with Discord's voice channels
 
 ## Project Structure
-
+```
 shikanoko-main/
 ├── README.md
 ├── shikanoko.mp3
@@ -21,7 +21,7 @@ shikanoko-main/
     ├── 7 Years.mp3
     ├── Snowman.mp3
     └── X.mp3
-
+```
 ## Getting Started
 
 ### 1. Clone the Repository
